@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsasi&theme=transparent&langs_count=10)](https://github.com/codingsasi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsasi&theme=transparent&layout=compact&langs_count=10)](https://github.com/codingsasi)
 ![github stats](https://github-readme-stats.vercel.app/api?username=codingsasi&show_icons=true&theme=transparent&count_private=true)
 
 - 🔭 I’m currently working on Drupal, RUST and trying to automate deployments to extent where it is basically a non-event!
