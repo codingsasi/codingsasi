@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=codingsasi&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsasi&layout=compact&theme=dark)](https://github.com/codingsasi)
+![github stats](https://github-readme-stats.vercel.app/api?username=codingsasi&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsasi&theme=transparent)](https://github.com/codingsasi)
 
 
 - 🔭 I’m currently working on Drupal, RUST and trying to automate deployments to extent where it is basically a non-event!
