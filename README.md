@@ -7,4 +7,4 @@
 - 📫 How to reach me: mail@abh.ai or +91 7736382208
 - 🔭 Pronouns: He/Him
 
-<> For more information, go to [My other README](https://abh.ai/README).
+// For more information, go to [My other README](https://abh.ai/README).
