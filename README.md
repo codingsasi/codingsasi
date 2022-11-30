@@ -6,5 +6,3 @@
 - 👯 I’m looking to consult for NGOs, small and medium businesses for marginalized communities, LBGTQ+ people and businesses. All such consultations are pro bono.
 - 📫 How to reach me: mail@abh.ai or +91 7736382208
 - 🔭 Pronouns: He/Him
-
-// For more information, go to [My other README](https://abh.ai/README).
