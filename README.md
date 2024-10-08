@@ -1,5 +1,5 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=codingsasi&show_icons=true&theme=default&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsasi&theme=default&layout=compact&langs_count=15)](https://github.com/codingsasi)
+![github stats](https://github-readme-stats.vercel.app/api?username=codingsasi&show_icons=true&theme=dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsasi&theme=dark&layout=compact&langs_count=15)](https://github.com/codingsasi)
 
 - 🔭 I’m currently working on PHP, Java, Drupal, Rust, Python and trying to automate deployments to extent where it is basically a non-event!
 - 🌱 I’m currently learning Rust and the various products of AWS
