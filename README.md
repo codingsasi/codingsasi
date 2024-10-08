@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on PHP, Java, Drupal, Rust, Python and trying to automate deployments to extent where it is basically a non-event!
 - 🌱 I’m currently learning Rust and trying to implement some fun stuff
-- 👯 I’m looking to consult for NGOs, small businesses for marginalized communities and LBGTQ+ people. All such consultations are pro bono.
+- 👯 I’m looking to consult for Non-profits and NGOs, small businesses for marginalized communities and LBGTQ+ people. All such consultations are pro bono.
 - 📫 How to reach me: mail@abh.ai or +1 4377335906
 - 🔭 Pronouns: He/Him
