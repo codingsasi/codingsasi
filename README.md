@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingsasi&theme=dark&layout=compact&langs_count=15)](https://github.com/codingsasi)
-
 - 🔭 I’m currently working on PHP, Java, Drupal, Rust, Python and trying to automate deployments to extent where it is basically a non-event!
 - 🌱 I’m an amateur Rust dev and have done some fun projects in Rust and WASM.
 - 👯 Happy to consult for NGOs, Non-Profits and Queer orgs for free. 
