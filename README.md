@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on PHP, Java, Drupal, Rust, Python and trying to automate deployments to extent where it is basically a non-event!
+- 🔭 I’m currently working on PHP, Java, Drupal, Rust, Python and trying to automate deployments to extent where it's basically a non-event!
 - 🌱 I’m an amateur Rust dev and have done some fun projects in Rust and WASM.
 - 👯 Happy to consult for NGOs, Non-Profits and Queer orgs for free. 
 - 📫 How to reach me: mail@abh.ai or +1 4377335906
